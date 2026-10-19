@@ -4,6 +4,14 @@
 
 **视频部分只提供建议，不会因为安装或自动触发这个 Skill 就开始制作、试渲染或启动后台任务。** 只有你明确要求制作或渲染视频时，才在授权范围内执行。
 
+## 作品案例
+
+[机械羽翼角色：预览、制作分工与 Blender 工程下载](examples/clockwork-angel/README.md)
+
+![机械羽翼角色成片预览](examples/clockwork-angel/images/hero.png)
+
+案例页包含全身、光环、金属、鞋子、羽毛及真实白模预览。三份打包贴图的 Blender 工程保存在 [Release 下载区](https://github.com/huangxin-design/tripo-blender-ip/releases/tag/clockwork-angel-case-v1)。
+
 ## 安装
 
 将下面这段话发给 Codex：
@@ -34,4 +42,4 @@ https://github.com/huangxin-design/tripo-blender-ip
 
 视频参考包括全身、标志配件、金属、鞋子、羽毛和白模的镜头节奏，以及单向运镜和原生 4K 的规格建议。没有对应部件的角色应重新选择展示重点，不照搬光环或羽毛。
 
-案例记录属于特定角色和设备的已验证结果，不保证其他角色的还原程度、生成费用或渲染速度。仓库发布 Skill 文档，不包含模型、贴图、视频或自动执行渲染的脚本。
+案例记录属于特定角色和设备的已验证结果，不保证其他角色的还原程度、生成费用或渲染速度。Skill 文件夹包含工作流文档；作品预览单独放在 examples，带有内嵌贴图的 Blender 工程通过 Release 下载，不随 Skill 安装或自动执行。

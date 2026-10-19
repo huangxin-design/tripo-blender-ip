@@ -1,0 +1,178 @@
+[
+  {
+    "file": "clockwork-angel-still-4k.blend",
+    "reopened": true,
+    "blender_version": "5.2.1 LTS",
+    "resolution": [
+      2748,
+      4096
+    ],
+    "resolution_percentage": 100,
+    "frame_range": [
+      1,
+      250
+    ],
+    "fps": 24,
+    "packed_textures": [
+      {
+        "size": [
+          4096,
+          4096
+        ],
+        "packed": true
+      },
+      {
+        "size": [
+          4096,
+          4096
+        ],
+        "packed": true
+      },
+      {
+        "size": [
+          4096,
+          4096
+        ],
+        "packed": true
+      }
+    ],
+    "cameras": [],
+    "external_libraries": 0,
+    "embedded_text_blocks": 0,
+    "render_output": "//renders\\clockwork-angel-still-4k_"
+  },
+  {
+    "file": "clockwork-angel-video-beauty-4k.blend",
+    "reopened": true,
+    "blender_version": "5.2.1 LTS",
+    "resolution": [
+      3072,
+      4096
+    ],
+    "resolution_percentage": 100,
+    "frame_range": [
+      1,
+      312
+    ],
+    "fps": 24,
+    "packed_textures": [
+      {
+        "size": [
+          4096,
+          4096
+        ],
+        "packed": true
+      },
+      {
+        "size": [
+          4096,
+          4096
+        ],
+        "packed": true
+      },
+      {
+        "size": [
+          4096,
+          4096
+        ],
+        "packed": true
+      }
+    ],
+    "cameras": [
+      {
+        "frame": 1,
+        "name": "full_body"
+      },
+      {
+        "frame": 97,
+        "name": "halo"
+      },
+      {
+        "frame": 145,
+        "name": "metal"
+      },
+      {
+        "frame": 193,
+        "name": "boots"
+      },
+      {
+        "frame": 253,
+        "name": "feathers"
+      },
+      {
+        "frame": 313,
+        "name": "clay"
+      }
+    ],
+    "external_libraries": 0,
+    "embedded_text_blocks": 0,
+    "render_output": "//renders\\clockwork-angel-video-beauty-4k_"
+  },
+  {
+    "file": "clockwork-angel-video-clay-4k.blend",
+    "reopened": true,
+    "blender_version": "5.2.1 LTS",
+    "resolution": [
+      3072,
+      4096
+    ],
+    "resolution_percentage": 100,
+    "frame_range": [
+      313,
+      360
+    ],
+    "fps": 24,
+    "packed_textures": [
+      {
+        "size": [
+          4096,
+          4096
+        ],
+        "packed": true
+      },
+      {
+        "size": [
+          4096,
+          4096
+        ],
+        "packed": true
+      },
+      {
+        "size": [
+          4096,
+          4096
+        ],
+        "packed": true
+      }
+    ],
+    "cameras": [
+      {
+        "frame": 1,
+        "name": "full_body"
+      },
+      {
+        "frame": 97,
+        "name": "halo"
+      },
+      {
+        "frame": 145,
+        "name": "metal"
+      },
+      {
+        "frame": 193,
+        "name": "boots"
+      },
+      {
+        "frame": 253,
+        "name": "feathers"
+      },
+      {
+        "frame": 313,
+        "name": "clay"
+      }
+    ],
+    "external_libraries": 0,
+    "embedded_text_blocks": 0,
+    "render_output": "//renders\\clockwork-angel-video-clay-4k_"
+  }
+]

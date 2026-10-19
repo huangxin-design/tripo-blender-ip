@@ -1,0 +1,23 @@
+{
+  "release_tag": "clockwork-angel-case-v1",
+  "files": [
+    {
+      "file": "clockwork-angel-still-4k.blend",
+      "bytes": 100281299,
+      "sha256": "162c6aead767bdf057dd87269c0274baf0c5cca36aa2d5461770143d17054bd3",
+      "url": "https://github.com/huangxin-design/tripo-blender-ip/releases/download/clockwork-angel-case-v1/clockwork-angel-still-4k.blend"
+    },
+    {
+      "file": "clockwork-angel-video-beauty-4k.blend",
+      "bytes": 100338692,
+      "sha256": "f4277be4f9dfd22a6f0437aaf16828fdae166ac0a223c0395972d5ea97e92751",
+      "url": "https://github.com/huangxin-design/tripo-blender-ip/releases/download/clockwork-angel-case-v1/clockwork-angel-video-beauty-4k.blend"
+    },
+    {
+      "file": "clockwork-angel-video-clay-4k.blend",
+      "bytes": 100334783,
+      "sha256": "30266082e97bec19db1a71124aee705a9862393847210124666b50076655a508",
+      "url": "https://github.com/huangxin-design/tripo-blender-ip/releases/download/clockwork-angel-case-v1/clockwork-angel-video-clay-4k.blend"
+    }
+  ]
+}
