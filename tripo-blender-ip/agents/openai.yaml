@@ -1,0 +1,7 @@
+interface:
+  display_name: "Tripo + Blender IP 精修"
+  short_description: "把角色参考图拆成 Tripo 建模与 Blender 精修，交付高质量静帧"
+  default_prompt: "用 $tripo-blender-ip 将这张 IP 参考图做成高质量 3D 静帧，先拆分建模与精修任务，再验收并交付 4K 图、工程和贴图。"
+
+policy:
+  allow_implicit_invocation: true
